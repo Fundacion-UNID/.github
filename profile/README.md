@@ -2,13 +2,13 @@
 
 ---
 
-- [Spanish - Español](./README.md#Fundacion-UNID-Espanol) 
-- [English](./README.md#UNID-Foundation-English)
-- [French - Français](./README.md#Fondation-UNID-Francais)
-- [Arabic - عرب](./README.md)
+- [Spanish - Español](./README.md#fundación-unid---español) 
+- [English](./README.md#unid-foundation---english)
+- [French - Français](./README.md#fondation-unid---français)
+- [Arabic - عرب](./README.md#مؤسسة-unid---عربي)
 ---
 
-## Fundación UNID -  Español
+## Fundación UNID - Español
 
 ### **Misión**
 
@@ -17,6 +17,13 @@ Nuestra misión es contribuir al desarrollo, formación e investigación en salu
 ### **Visión**
 
 UNID empodera a los pacientes y donantes. Provee de un *Identificador Universal de Salud* (patentado) y de identidad digital a cada persona mediante la aplicación UHC-Personal, que permite recibir, descargar, adjuntar y compartir datos de manera segura en los estándares internacionales, para lograr la atención sanitaria transfronteriza en cualquier proveedor de salud (público o privado) independientemente del continente, país e idioma.
+
+### **Proyectos**
+
+UNID colabora con [ConnectHealth Group](https://connecthealth.info) en el funcionamiento de la plataforma Universal Health Chain (UHC), aportando: 
+  - UHC-Personal app para empoderar a las personas con su Identificador Universal de Salud.
+  - Red de blockchain gobernada por la Fundación UNID para la trazabilidad de identidades digitales y datos generados.
+  - UNID-Proxy para la de-identificación de gemelos digitales para investigación y para el protocolo en caso de emergencias y catástrofes.
 
 ---
 
@@ -30,6 +37,13 @@ Our mission is to contribute to the development, training and research in health
 
 UNID empowers patients and donors. Provides a *Universal Health Identifier* (patented) and digital identity to each person through the UHC-Personal application, which allows receiving, downloading, attaching and sharing data safely in accordance with international standards, to achieve cross-border health care at any health provider (public or private) regardless of continent, country and language.
 
+### **Projects**
+
+UNID collaborates with [ConnectHealth Group](https://connecthealth.info) in the operation of the Universal Health Chain (UHC) platform, providing:
+   - UHC-Personal app to empower people with their Universal Health Identifier.
+   - Blockchain network governed by the UNID Foundation for the traceability of digital identities and generated data.
+   - UNID-Proxy for the de-identification of digital twins for research and for the protocol in case of emergencies and catastrophes.
+
 ---
 
 ## Fondation UNID - Français
@@ -42,6 +56,13 @@ Notre mission est de contribuer au développement, à la formation et à la rech
 
 L'UNID responsabilise les patients et les donateurs. Fournit un *Identificateur de Santé Universel* (breveté) et une identité numérique à chaque personne via l'application UHC-Personal, qui permet de recevoir, télécharger, joindre et partager des données en toute sécurité conformément aux normes internationales, pour obtenir des soins de santé transfrontaliers auprès de n'importe quel prestataire de santé (public ou privé) quel que soit le continent, le pays et la langue.
 
+### **Projets**
+
+L'UNID collabore avec [ConnectHealth Group](https://connecthealth.info) dans le fonctionnement de la plateforme Universal Health Chain (UHC), fournissant:
+   - Application UHC-Personal pour responsabiliser les gens avec leur identifiant de santé universel.
+   - Réseau blockchain régi par la Fondation UNID pour la traçabilité des identités numériques et des données générées.
+   - UNID-Proxy pour la désidentification des jumeaux numériques pour la recherche et pour le protocole en cas d'urgence et de catastrophe.
+
 ---
 
 ## مؤسسة UNID - عربي
@@ -53,5 +74,12 @@ L'UNID responsabilise les patients et les donateurs. Fournit un *Identificateur 
 ### **رؤية**
 
 UNID تمكن المرضى والمتبرعين. يوفر * معرّفًا صحيًا عالميًا * (حاصلًا على براءة اختراع) وهوية رقمية لكل شخص من خلال تطبيق UHC-Personal ، والذي يسمح باستلام البيانات وتنزيلها وإرفاقها ومشاركتها بأمان وفقًا للمعايير الدولية ، لتحقيق رعاية صحية عبر الحدود في أي حالة صحية مقدم الخدمة (عام أو خاص) بغض النظر عن القارة والبلد واللغة.
+
+### ** المشاريع **
+
+تتعاون UNID مع [ConnectHealth Group] (https://connecthealth.info) في تشغيل منصة سلسلة الصحة العالمية (UHC) ، مما يوفر:
+   - تطبيق UHC-Personal لتمكين الأشخاص من خلال معرف الصحة العالمي الخاص بهم.
+   - شبكة Blockchain التي تحكمها مؤسسة UNID لتتبع الهويات الرقمية والبيانات المولدة.
+   - UNID-Proxy لإلغاء تحديد التوائم الرقمية للبحث وللبروتوكول في حالات الطوارئ والكوارث.
 
 ---
