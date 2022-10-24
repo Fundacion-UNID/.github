@@ -19,7 +19,7 @@ UNID empodera a los pacientes y donantes. Provee de un *Identificador Universal 
 
 ### **Proyectos**
 
-UNID colabora con [ConnectHealth Group](https://connecthealth.info) en el funcionamiento de la plataforma Universal Health Chain (UHC), aportando: 
+UNID colabora con [ConnectHealth Group](https://connecthealth.info) en el funcionamiento de la plataforma [Universal Health Chain (UHC)](https://github.com/Universal-Health-Chain/docs), aportando: 
   - UHC-Personal app para empoderar a las personas con su Identificador Universal de Salud.
   - Red de blockchain gobernada por la Fundación UNID para la trazabilidad de identidades digitales y datos generados.
   - UNID-Proxy para la de-identificación de gemelos digitales para investigación y para el protocolo en caso de emergencias y catástrofes.
@@ -42,7 +42,7 @@ UNID empowers patients and donors. Provides a *Universal Health Identifier* (pat
 
 ### **Projects**
 
-UNID collaborates with [ConnectHealth Group](https://connecthealth.info) in the operation of the Universal Health Chain (UHC) platform, providing:
+UNID collaborates with [ConnectHealth Group](https://connecthealth.info) in the operation of the [Universal Health Chain (UHC)](https://github.com/Universal-Health-Chain/docs) platform, providing:
    - UHC-Personal app to empower people with their Universal Health Identifier.
    - Blockchain network governed by the UNID Foundation for the traceability of digital identities and generated data.
    - UNID-Proxy for the de-identification of digital twins for research and for the protocol in case of emergencies and catastrophes.
@@ -64,7 +64,7 @@ L'UNID responsabilise les patients et les donateurs. Fournit un *Identificateur 
 
 ### **Projets**
 
-L'UNID collabore avec [ConnectHealth Group](https://connecthealth.info) dans le fonctionnement de la plateforme Universal Health Chain (UHC), fournissant:
+L'UNID collabore avec [ConnectHealth Group](https://connecthealth.info) dans le fonctionnement de la plateforme [Universal Health Chain (UHC)](https://github.com/Universal-Health-Chain/docs), fournissant:
    - Application UHC-Personal pour responsabiliser les gens avec leur identifiant de santé universel.
    - Réseau blockchain régi par la Fondation UNID pour la traçabilité des identités numériques et des données générées.
    - UNID-Proxy pour la désidentification des jumeaux numériques pour la recherche et pour le protocole en cas d'urgence et de catastrophe.
@@ -86,7 +86,7 @@ UNID تمكن المرضى والمتبرعين. يوفر * معرّفًا صح�
 
 ### **المشاريع**
 
-تتعاون UNID مع [ConnectHealth Group] (https://connecthealth.info) في تشغيل منصة سلسلة الصحة العالمية (UHC) ، مما يوفر:
+تتعاون UNID مع [ConnectHealth Group] (https://connecthealth.info) في تشغيل منصة سلسلة الصحة العالمية ([UHC](https://github.com/Universal-Health-Chain/docs)) ، مما يوفر:
    - تطبيق UHC-Personal لتمكين الأشخاص من خلال معرف الصحة العالمي الخاص بهم.
    - شبكة Blockchain التي تحكمها مؤسسة UNID لتتبع الهويات الرقمية والبيانات المولدة.
    - UNID-Proxy لإلغاء تحديد التوائم الرقمية للبحث وللبروتوكول في حالات الطوارئ والكوارث.
